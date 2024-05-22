@@ -10,7 +10,7 @@ Durante este proyecto, se utilizaron varias metodologías y herramientas de Pyth
 
 La importancia de este proyecto radica en su capacidad para transformar datos en información accionable. Al identificar y comprender los diferentes segmentos de clientes, las empresas pueden desarrollar estrategias de marketing más efectivas, mejorar la personalización de sus servicios y, en última instancia, aumentar la satisfacción y lealtad de sus clientes.
 
-Este proyecto es una contribución con todo el amor del mundo para aquellos que buscan formarse en el fascinante ámbito de la Ciencia de Datos. Espero que mi trabajo pueda servir como una guía y recurso valioso para cualquier persona interesada en mejorar sus habilidades y conocimientos en esta área.
+Este proyecto es una contribución con todo el amor del mundo para aquellos que buscan formarse en el fascinante ámbito de la Ciencia de Datos. Espero que mi trabajo pueda servir como una guía y recurso valioso para cualquier persona interesada en mejorar sus habilidades y conocimientos en esta área. #aluraChallengeEsenciaDelCliente
 
 
 [@Antonio Richaud](https://www.antonio-richaud.com/)
@@ -18,7 +18,7 @@ Este proyecto es una contribución con todo el amor del mundo para aquellos que 
 
 ![Logo](https://www.aluracursos.com/assets/img/challenges/logos/challenges-logo-data.1712144089.svg)
 
-![Insignia](#)
+![Insignia](./imagenes/medallita.png)
 
 
 ## Pasos que se siguieron para el desarrollo del Challenge 
